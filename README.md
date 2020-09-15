@@ -19,4 +19,4 @@ Original Data sources included in project directory /originalData<br>
 The data shows that the top 3 best selling vehciles in 2019 are also responsible for the largest quantity of CO<sub>2</sub> emissions in the given sample set.
 
 <b>Scatter Plot Visualization</b><br>
-![Scatter Plot Visualization](https://github.com/joeharbulak/scatterPlotVisualization/data/scatterPlotVisualization.png)
+![Scatter Plot Visualization](https://github.com/joeHarbulak/scatterPlotVisualization/blob/master/data/scatterPlotVisualization.png)
